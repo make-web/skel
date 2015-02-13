@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # this file is loaded by *all* shells, login or otherwise
 
 # source rbenv loader script
@@ -8,6 +9,8 @@ source /etc/profile.d/rbenv.sh
 # edit the below, pasted from default
 
 
+=======
+>>>>>>> 12d959d5313983a9dd3e56da870aa0c18b5da4ec
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -118,4 +121,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
